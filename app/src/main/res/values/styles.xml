@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+    </style>
+
+    <style name="ActiveTab">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="InActiveTab">
+        <item name="android:textColor">#90ffffff</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

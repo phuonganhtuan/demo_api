@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="title_contact_list">Contact List</string>
+    <string name="format_mobile">Mobile: %s</string>
+    <string name="format_home">Home: %s</string>
+    <string name="format_office">Office: %s</string>
+    <string name="title_empty_contact">No contact.</string>
+    <string name="title_favorite_contacts">Favorite contacts</string>
+</resources>
